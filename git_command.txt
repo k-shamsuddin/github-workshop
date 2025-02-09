@@ -12,3 +12,5 @@ git commit -m "added testing files"
 git remove -v
 git remote set-url origin https://PAT@github.com/k-shamsuddin/github-workshop.git
 git push origin master
+
+with github
